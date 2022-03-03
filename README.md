@@ -7,7 +7,7 @@ checks the player's gems and enchants and assesses in tooltip whether he missing
 
 
 
-green color indicates low level in slot (works only for gems for now, maybe I'll do it for enchants in future updates)
+* = indicates low level in slot
 
  /ZZZ
  

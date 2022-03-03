@@ -3,7 +3,7 @@ checks the player's gems and enchants and assesses in tooltip whether he missing
 
 ![alt text](https://i.imgur.com/XRVHZuW.png "1")
 ![alt text](https://i.imgur.com/y0AKJs3.png "2")
-![alt text](https://i.imgur.com/2QQMOIW.png "3")
+![alt text](https://i.imgur.com/eiEZTQ1.png "3")
 
 
 

@@ -1,0 +1,16 @@
+﻿# https://github.com/Lyeeroy/ZzzWOTLK
+## Interface: 30300
+## Title: Zzz
+## Author: LyeeRoy
+## Notes: Checks the player's gems and enchants and assesses whether he is missing any or is wearing a low level
+## Version: 0.3.3
+## SavedVariables: ZzzSave, ZzzttpFormat
+
+embeds.xml
+
+ZzzDB.lua
+ZzzItemInfo.lua
+ZzzGems.lua
+ZzzEnchant.lua
+
+ZzzMain.lua

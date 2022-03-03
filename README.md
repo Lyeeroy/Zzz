@@ -7,7 +7,7 @@ checks the player's gems and enchants and assesses in tooltip whether he missing
 
 
 
-** = indicates low level in slot
+ * = indicates low level in slot
 
  /ZZZ
  

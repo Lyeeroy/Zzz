@@ -43,7 +43,6 @@ local function slash(msg, editbox)
     CheckBox:SetParent(f)
     CheckBox:SetPoint("TOPRIGHT", 110, 5)
     CheckBox:SetLabel("Disable")
-    CheckBox:SetValue(1)
     CheckBox:SetCallback(
         "OnValueChanged",
         function(_, _, lock)
@@ -56,9 +55,12 @@ local function slash(msg, editbox)
             end
         end
     )
+
     if ZzzSave == 0 then
+        CheckBox:SetValue(1)
         CheckBox:SetDisabled(disabled)
     end
+    
     f:AddChild(CheckBox)
 
     local dropdown = AceGUI:Create("Dropdown")
